@@ -1,8 +1,8 @@
 ## Howdy! 👋
-## I'm Amin, a Software Developer.
-<!--## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@amin/30-nites-of-code)  -->
+## I'm Amin, a Fullstack Developer.
+<!--## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@amin/30-nites-of-code)  
   [#30NitesOfCode](https://www.codedex.io/@amin/30-nites-of-code)
-  ![@amin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amin)
+  ![@amin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amin)-->
 <!--
 **aameensiddiqui/aameensiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
