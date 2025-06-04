@@ -1,7 +1,7 @@
 <!--## Howdy! 👋
 ## I'm Amin, a Software Developer. -->
 <h1 align="center">Hi👋, I am Amin Siddiqui</h1>
-<h3 align="center">I am a passionate Software Developer from India.</h3>
+<h3 align="center">I am a Software Developer from India.</h3>
 <!--## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@amin/30-nites-of-code)  
   [#30NitesOfCode](https://www.codedex.io/@amin/30-nites-of-code)
   ![@amin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amin)-->
