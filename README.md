@@ -1,29 +1,5 @@
-<!--## Howdy! 👋
-## I'm Amin, a Software Developer. -->
 <h1 align="center">Hi👋, I am Amin Siddiqui</h1>
 <h3 align="center">I am a Software Developer from India.</h3>
-<!--## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@amin/30-nites-of-code)  
-  [#30NitesOfCode](https://www.codedex.io/@amin/30-nites-of-code)
-  ![@amin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amin)-->
-<!--
-**aameensiddiqui/aameensiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://gprm.itsvg.in/
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-socials
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27310691) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aminsiddiqui) 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-💻 🌐📊
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiquiamin) 
--->
 
 ### 🌎 :
 
@@ -96,6 +72,45 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" style="margin:10px; height:25px; vertical-align:middle"/>
 </span>
 
+### 📈 GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=aameensiddiqui&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aameensiddiqui&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aameensiddiqui&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=aameensiddiqui&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- comented out code -->
+
+<!--## Howdy! 👋
+## I'm Amin, a Software Developer. -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@amin/30-nites-of-code)  
+  [#30NitesOfCode](https://www.codedex.io/@amin/30-nites-of-code)
+  ![@amin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amin)-->
+<!--
+**aameensiddiqui/aameensiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://gprm.itsvg.in/
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+socials
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27310691) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aminsiddiqui) 
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+💻 🌐📊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiquiamin) 
+
 <!--
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
@@ -124,21 +139,9 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 -->
 
-### 📈 GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=aameensiddiqui&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aameensiddiqui&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aameensiddiqui&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 <!--
 [![TestUser at CodeAbbey banner](https://www.codeabbey.com/index/user_banner/aminsiddiqui.png)](https://www.codeabbey.com/index/user_profile/aminsiddiqui)
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aameensiddiqui&limit=5&theme=transparent&combine_all_yearly_contributions=true) -->
-
----
-
-[![](https://visitcount.itsvg.in/api?id=aameensiddiqui&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
