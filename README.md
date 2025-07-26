@@ -2,8 +2,6 @@
 ## I'm Amin, a Software Developer. -->
 <h1 align="center">Hi👋, I am Amin Siddiqui</h1>
 <h3 align="center">I am a Software Developer from India.</h3>
-
-<img src="static/divider.gif"/>
 <!--## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@amin/30-nites-of-code)  
   [#30NitesOfCode](https://www.codedex.io/@amin/30-nites-of-code)
   ![@amin #30NitesOfCode](https://www.codedex.io/api/petStatus?user=amin)-->
@@ -34,10 +32,6 @@ Here are some ideas to get you started:
 </a>
 
 ### 🖳 <img src="static/codegif.webp" width="30"/> Tech Stack
-
----
-
-### 🖳 </> Tech Stack
 
 <!-- Languages -->
 <h3>Languages</h3>
